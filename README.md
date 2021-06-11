@@ -17,4 +17,4 @@ Download Link: https://appsenjoy.com/hM7k6
 ### - Depth based Face Anti Spoofing SDK
 ##### Please contact me.
 
-2021.06.04 updated
+2021.06.12 updated
