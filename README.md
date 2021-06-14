@@ -6,9 +6,9 @@ My Website: https://turingtech.vip
 ![Demo Video](https://raw.githubusercontent.com/Nikit333/Face-Anti-Spoofing-Android-iOS/main/2.gif)
 
 ### - Passive (Silent) Face Anti Spoofing Android APP  (2021.6.4 updated)
-[![QR Code](https://chart.googleapis.com/chart?chs=150&cht=qr&chl=https://appsenjoy.com/hM7k6&choe=UTF-8&chld=|0)](https://appsenjoy.com/hM7k6)
+[![QR Code](https://chart.googleapis.com/chart?chs=150&cht=qr&chl=https://appsenjoy.com/gCUgH&choe=UTF-8&chld=|0)](https://appsenjoy.com/gCUgH)
 
-Download Link: https://appsenjoy.com/hM7k6
+Download Link: https://appsenjoy.com/gCUgH
 
 ### - Face Anti Spoofing iOS APP
 ##### Send me the UDID of your phone through skype. (live:turing311)
