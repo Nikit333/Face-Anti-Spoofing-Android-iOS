@@ -14,7 +14,7 @@ Download Link: https://appsenjoy.com/gCUgH
 ##### Send me the UDID of your phone through skype. (live:turing311)
 
 ### - Infrared Face Anti Spoofing SDK
-##### Please contact me.
+##### Please contact me. (Mail to: turing311@outlook.com)
 
 ### - Depth based Face Anti Spoofing SDK
 ##### Please contact me.
