@@ -19,4 +19,4 @@ https://play.google.com/store/apps/details?id=com.mv.livebodyexample&hl=en_US&gl
 ### - Depth based Face Anti Spoofing SDK
 ##### Please contact me.
 
-2021.07.12 updated
+2021.09.08 updated
